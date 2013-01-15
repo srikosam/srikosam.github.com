@@ -1,0 +1,14 @@
+@charset "utf-8";
+.srikosam {
+	font-family: "Courier New", Courier, monospace;
+	font-size: 36px;
+	font-weight: bold;
+	text-align: center;
+}
+
+.srikosamDesc {
+	font-family: "Courier New", Courier, monospace;
+	font-size: 12px;
+	font-weight: bold;
+	text-align: left;
+}
