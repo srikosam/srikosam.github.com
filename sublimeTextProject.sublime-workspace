@@ -1,0 +1,500 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"getMo",
+				"getMotionDataObject"
+			],
+			[
+				"lMo",
+				"lMotionData"
+			],
+			[
+				"aA",
+				"aAlpha:Number"
+			],
+			[
+				"end",
+				"endAlpha"
+			],
+			[
+				"m_Scal",
+				"m_ScaleY"
+			],
+			[
+				"lCure",
+				"lCurrentDraggedData"
+			],
+			[
+				"aScale",
+				"aScaleY:Number"
+			],
+			[
+				"m_Sca",
+				"m_ScaleY"
+			],
+			[
+				"aTwe",
+				"aTween"
+			],
+			[
+				"lA",
+				"lAlphaData"
+			],
+			[
+				"lPo",
+				"lPosData"
+			],
+			[
+				"aDr",
+				"aDragSource"
+			],
+			[
+				"aTw",
+				"aTweenHandler"
+			],
+			[
+				"aT",
+				"aTweenHandler:Function"
+			],
+			[
+				"Text",
+				"TextInput"
+			],
+			[
+				"Movie",
+				"MovieClip"
+			],
+			[
+				"out",
+				"outFile"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"Stat",
+				"StaticWidget"
+			],
+			[
+				"loader",
+				"lLoaderString"
+			],
+			[
+				"use",
+				"useChromeLess"
+			],
+			[
+				"video",
+				"videoID"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"Main",
+				"MainWindow"
+			],
+			[
+				"cpP",
+				"cpPositionInfo"
+			],
+			[
+				"aDra",
+				"aDragSource"
+			],
+			[
+				"m_Dr",
+				"m_DragSources"
+			],
+			[
+				"cpDr",
+				"cpDragSourceInfo"
+			],
+			[
+				"lDr",
+				"lDragTarget"
+			],
+			[
+				"cpInte",
+				"cpInteraction"
+			],
+			[
+				"cpIn",
+				"cpInteractionManager"
+			],
+			[
+				"Mo",
+				"MovieClip"
+			],
+			[
+				"m_Dra",
+				"m_DragTargets"
+			],
+			[
+				"m_D",
+				"m_DragSources"
+			],
+			[
+				"Fin",
+				"FindDialog"
+			],
+			[
+				"QS",
+				"QString"
+			],
+			[
+				"en",
+				"enableFindButton"
+			],
+			[
+				"m_C",
+				"m_CaseCheckBox"
+			],
+			[
+				"cl",
+				"clicked"
+			],
+			[
+				"si",
+				"SIGNAL"
+			],
+			[
+				"top",
+				"topRightLayout"
+			],
+			[
+				"main",
+				"mainLayout"
+			],
+			[
+				"mai",
+				"mainLayout"
+			],
+			[
+				"m_",
+				"m_BackwardCheckBox"
+			],
+			[
+				"m_c",
+				"m_CaseCheckBox"
+			],
+			[
+				"m_F",
+				"m_FindButton"
+			],
+			[
+				"t",
+				"tr"
+			],
+			[
+				"QL",
+				"QLabel"
+			],
+			[
+				"ste",
+				"setValue"
+			],
+			[
+				"getC",
+				"getClientURI"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"pr",
+				"prototype"
+			],
+			[
+				"is",
+				"isWidget"
+			],
+			[
+				"get",
+				"getAttribute"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "flashmake",
+	"command_palette":
+	{
+		"height": 110.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 386.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": true,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Views/Hulk/gokul-W7/aura/dev/extras/xplat/mul/[INSTALLDIR]/HTML/assets/js/CPQuizLibrary.js",
+		"/C/Views/Hulk/gokul-W7/aura/dev/source/components/publish/swfpublish/flash/src/quizzing/com/adobe/captivate/quizzing/PlaybackController.as",
+		"/C/Views/Hulk/gokul-W7/aura/dev/helperapps/DevEnvHelpers/CreateHardLinks.bat",
+		"/C/Users/gokul/Dropbox/Personal/GSK Page/jquery-ui-1.9.2.custom/jquery-ui-1.9.2.custom/index - Copy.html",
+		"/C/Users/gokul/Dropbox/Personal/GSK Page/jquery-ui-1.9.2.custom/jquery-ui-1.9.2.custom/index.html",
+		"/C/Users/gokul/Desktop/sng/StudentNameGetter.as",
+		"/C/Views/Hulk/gokul-W7/aura/dev/source/components/publish/swfpublish/flash/src/main/com/adobe/captivate/main/cpDragDropInteraction.as",
+		"/C/Views/Hulk/gokul-W7/dragdrop/dev/source/components/publish/swfpublish/flash/src/main/com/adobe/captivate/main/cpDragDropInteraction.as",
+		"/C/Views/Hulk/gokul-W7/dragdrop/dev/source/components/publish/swfpublish/flash/src/main/com/adobe/captivate/main/rdInteraction.as",
+		"/C/Views/Hulk/gokul-W7/aura/dev/build/win/prj/ReleasePropertySheet.props",
+		"/C/Views/Hulk/gokul-W7/aura/dev/build/win/prj/core.rsp",
+		"/C/Views/Hulk/gokul-W7/dragdrop/dev/source/components/publish/swfpublish/flash/src/main/com/adobe/captivate/main/cpAnimator.as",
+		"/C/Views/Hulk/gokul-W7/dragdrop/dev/source/components/publish/swfpublish/flash/build_scripts/compile_schema.txt",
+		"/C/Views/Hulk/gokul-W7/dragdrop/dev/source/components/publish/swfpublish/flash/src/main/com/adobe/captivate/main/cpInteraction.as",
+		"/C/Users/gokul/Desktop/ytp/swf/YTPWidget.as",
+		"/C/Users/gokul/Desktop/ytp/swf/EditView.as",
+		"/C/Users/gokul/Dropbox/Work/nodeJs/win/node-v0.8.6-x86/server.js",
+		"/C/Users/gokul/Desktop/ytp/swf/WidgetFactory/as/widgetfactory/StaticWidget.as",
+		"/C/Users/gokul/Dropbox/Work/nodeJs/win/node-v0.8.6-x86/node.cmd",
+		"/C/Users/gokul/Desktop/ytp/swf/EditArea.as",
+		"/C/Users/gokul/Dropbox/Work/nodeJs/win/node-v0.8.6-x86/server1.js",
+		"/C/Views/Hulk/gokul-W7/dragdrop/dev/source/components/publish/swfpublish/flash/src/main/com/adobe/captivate/main/cpInteractionManager.as",
+		"/C/Users/gokul/Desktop/nodeServer/node-v0.8.6-x86/server.js",
+		"/C/Users/gokul/Desktop/nodeServer/basic.js",
+		"/C/Users/gokul/Desktop/nodeServer/server.js",
+		"/C/Users/gokul/Desktop/ytp/swf/WidgetFactory/README.txt",
+		"/C/Users/gokul/Desktop/nodeJSServ",
+		"/C/Users/gokul/Desktop/ytp/YTP.as",
+		"/C/Views/Qt Expts/MainWindow.py",
+		"/C/Users/gokul/MyQTExpts/MainWindow/MainWindow.cpp",
+		"/C/Users/gokul/MyQTExpts/MainWindow/MainWindow.h",
+		"/C/Users/gokul/MyQTExpts/MainWindow/main.cpp",
+		"/C/Python33/Lib/site-packages/PyQt4/examples/widgets/windowflags.pyw",
+		"/C/Eric5Src/eric5/eric5.py",
+		"/C/QtSDK/Examples/4.7/itemviews/chart/main.cpp",
+		"/C/QtSDK/Examples/4.7/itemviews/chart/mainwindow.cpp",
+		"/C/Eric5Src/eric5/README",
+		"/C/Views/Hulk/gokul-W7/dragdrop/dev/source/components/publish/swfpublish/flash/src/main/com/adobe/captivate/main/cpItem.as",
+		"/C/Users/gokul/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/gokul/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/gokul/Dropbox/Useful Settings/SublimeText2/Packages/Default/Preferences (Windows).sublime-settings",
+		"/C/Users/gokul/AppData/Roaming/Sublime Text 2/Packages/User/Distraction Free.sublime-settings",
+		"/C/Views/Hulk/gokul-W7/dragdrop/dev/source/components/publish/swfpublish/flash/src/dummies/com/adobe/captivate/dummies/mainDummy.as",
+		"/C/Users/gokul/MyQTExpts/GotoCell/main.cpp",
+		"/C/Users/gokul/MyQTExpts/GotoCell/gotoCellDialog.h",
+		"/C/Users/gokul/MyQTExpts/GotoCell/gotoCellDialog.cpp",
+		"/C/Users/gokul/MyQTExpts/FindDialog/main.cpp",
+		"/C/Users/gokul/MyQTExpts/HelloWorld/HelloWorld.cpp",
+		"/C/Users/gokul/MyQTExpts/QuitButton/QuitButton.cpp",
+		"/C/Users/gokul/MyQTExpts/AgeApp/AgeApp.cpp",
+		"/C/Users/gokul/MyQTExpts/FindDialog/FindDialog.h",
+		"/C/Users/gokul/MyQTExpts/FindDialog/FindDialog .cpp",
+		"/C/Users/gokul/MyQTExpts/HelloWorld/Hello.cpp",
+		"/C/Users/gokul/Desktop/webobject/webobject/wr/w_3999/Widget_3999.htm",
+		"/C/Users/gokul/Desktop/webobject/webobject/Project Modified.js",
+		"/C/Users/gokul/Desktop/webobject/webobject/Project.js",
+		"/C/Users/gokul/Desktop/webobject/webobject/assets/js/CPWidgetManager.js",
+		"/C/Program Files/Adobe/Adobe Captivate 6 x64/Templates/Publish/AICC/RelatedFilesForRusticiDriver/AICCComm.html",
+		"/C/Users/gokul/Dropbox/Work/ClosureTest/compiler.bat",
+		"/C/Users/gokul/Dropbox/Work/ClosureTest/Test.js",
+		"/C/Users/gokul/Dropbox/Work/ClosureTest/CPWidgetManager.js",
+		"/C/Users/gokul/Dropbox/Work/ClosureTest/testprop.txt",
+		"/C/Users/gokul/Dropbox/Work/ClosureTest/CPWidgetManager_out.js"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"state",
+			"getRestoreSlideNum",
+			"_doPollLMSGetTrackingDataLoaded",
+			"trackingUpdateIntervalSecs",
+			"_trackingUpdateIntervalSecs",
+			"bookma",
+			"bookm",
+			"Us",
+			"tabs",
+			"anchorAt",
+			"nm",
+			"anchorA",
+			"doTweenAnimation",
+			"doUndo",
+			"function",
+			"Tween",
+			"m_questionNumber",
+			"m_QuestionN",
+			"getCl",
+			"m_questionNumber",
+			"enterRuntime",
+			"enterR",
+			"removeFromDict",
+			"validateMovieClip",
+			"getDragSourceInfo",
+			"getPossibleDragTargetsForSource",
+			";\n",
+			"isWidget",
+			"getCl"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 126.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"pla",
+				"quizzing/PlaybackController.as"
+			],
+			[
+				"cpdragdrop",
+				"main/cpDragDropInteraction.as"
+			],
+			[
+				"rdin",
+				"main/rdInteraction.as"
+			],
+			[
+				"cpdraginter",
+				"main/cpDragDropInteraction.as"
+			],
+			[
+				"cpinteraction.as",
+				"main/cpInteraction.as"
+			],
+			[
+				"compil",
+				"build_scripts/compile_schema.txt"
+			],
+			[
+				"cpinteractio",
+				"main/cpInteraction.as"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}

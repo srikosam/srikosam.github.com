@@ -1,7 +1,6 @@
 {
 	"folders":
 	[
-	
 		{
         	"path": "css",
         	"name": "css",
@@ -16,6 +15,19 @@
         	"path": "img",
         	"name": "img",
         	"file_exclude_patterns": ["*.bak"]
+    	},
+		{
+        	"path": ".",
+        	"name": "root",
+        	"file_exclude_patterns":[
+   				"._*",
+   				"*.bak",
+   				"*.fla",
+   				"*.swf",
+   				"*.sublime-workspace",
+   				"*.sublime-project",
+   				"*.sublime-build"
+			]
     	}
 	]
 }
