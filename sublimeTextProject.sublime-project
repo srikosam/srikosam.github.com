@@ -1,0 +1,21 @@
+{
+	"folders":
+	[
+	
+		{
+        	"path": "css",
+        	"name": "css",
+        	"file_exclude_patterns": ["*.bak"]
+    	},
+		{
+        	"path": "js",
+        	"name": "js",
+        	"file_exclude_patterns": ["*.bak"]
+    	},
+		{
+        	"path": "img",
+        	"name": "img",
+        	"file_exclude_patterns": ["*.bak"]
+    	}
+	]
+}
